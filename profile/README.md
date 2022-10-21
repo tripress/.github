@@ -1,6 +1,6 @@
 ## 📸 Photup Dev
 
-[瞬间文档](https://docs.tripper.press/)
+[Photup Docs Center](https://docs.photup.art/)
 
 [aiokr/Hexo-Theme-Type: A Material Design HEXO theme](https://github.com/aiokr/Hexo-Theme-Type)
 
