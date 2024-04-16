@@ -1,8 +1,4 @@
-## 📸 Photup Dev
-
-[Photup Docs Center](https://docs.photup.art/)
-
-[aiokr/Hexo-Theme-Type: A Material Design HEXO theme](https://github.com/aiokr/Hexo-Theme-Type)
+## 📸 TriPress Dev
 
 
 <!--
